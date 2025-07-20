@@ -1,4 +1,6 @@
 streamlit
 together
-Pillow
-imghdr
+seaborn
+plotly
+pandas
+python-dotenv
