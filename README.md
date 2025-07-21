@@ -1,7 +1,7 @@
 # Executive_Reporting_Automation
 
 Executive Reporting Automation & Decision Support
-📌 Use Case: Executive Reporting Automation
+Use Case: Executive Reporting Automation
 Category: Executive Intelligence & Decision Support
 
 Business Problem
@@ -23,11 +23,11 @@ Uses LLM (Mixtral-8x7B) to generate full-length board-ready reports.
 Supports optional custom prompts for tailored strategic insights.
 
 Key Features
-🧠 AI-Generated Executive Reports
-📊 Auto-created KPI Visualizations (line, bar, pie, heatmaps)
-📈 Time-series trend analysis
-📌 Customizable prompt-based insights
-📁 Supports CSV and Excel uploads
+AI-Generated Executive Reports
+Auto-created KPI Visualizations (line, bar, pie, heatmaps)
+Time-series trend analysis
+Customizable prompt-based insights
+Supports CSV and Excel uploads
 
 Sample Report Structure (AI Output)
 Executive Summary – Key business highlights
@@ -39,10 +39,10 @@ Strategic Recommendations – Actionable suggestions
 Risks & Opportunities – Critical flags and growth paths
 
 Benefits
-⏱️ Reduces reporting time by over 80%
+⏱Reduces reporting time by over 80%
 
-💡 Enables data-driven strategic decisions
+Enables data-driven strategic decisions
 
-🔍 Detects hidden trends and outliers early
+Detects hidden trends and outliers early
 
-🗂️ Standardizes report structure across business units
+🗂Standardizes report structure across business units
